@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737552398832",
+    "project_id": "first-half-app",
+    "storage_bucket": "first-half-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737552398832:android:c48148f16274dc08bfc535",
+        "android_client_info": {
+          "package_name": "com.example.first_half_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737552398832-lrtjgiusjjsd4qv8v63s3fbsf65apej4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPQYDh_852WXS1aY3i3d06Xu_ErIolK-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737552398832-lrtjgiusjjsd4qv8v63s3fbsf65apej4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
